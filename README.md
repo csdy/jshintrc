@@ -1,4 +1,4 @@
-# .jshintrc
+# JSHint Configuration
 
 A customized JSHint runtime configuration file for new web development projects.
 
